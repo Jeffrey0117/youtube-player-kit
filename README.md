@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.svg" width="96" height="96" alt="youtube-player-kit logo">
+</p>
+
 # youtube-player-kit
 
 > 自訂控制的 YouTube 播放器 React 元件 — 自己的控制列、±10 秒快轉、音量/進度滑桿、閒置自動隱藏、約 500ms 進度回呼，外加健康檢查 fallback 包裝。**shadcn 式複製貼上**，不是 npm 套件。
